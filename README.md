@@ -3,7 +3,7 @@
 ## ***Project Overview***
 *This project involves classifying network activity as either normal (0) or intrusive (1) using supervised machine learning models. Models uses various different activity attributes (Source_IP, Destination_IP, Port, Request_Type, Protocol, Payload_Size, User_Agent, Status, and Scan_Type) to detect benign or malicious activity. The dataset simulates network activity for a ficticious financial institution ("Northwood Bank"). The primary goal was to develop and evaluate models capable of detecting intrusion attempts with high accuracy, recall, and interpretability.*
   
-*The final deliverables include: a JupyterNotebook, executive presentation slide deck, and reproducable code via Kaggle.
+The final deliverables include: a JupyterNotebook, executive presentation slide deck, and reproducable code via Kaggle.
   
 ## ***Project Workflow***
 1. **Data Collection** - The Intrusion Detection Logs (Normal, Bot, Scan) was sourced online via Kaggle and contains 8,846 unique networking records.
